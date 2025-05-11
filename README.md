@@ -6,9 +6,8 @@
 
 This dashboard presents a comprehensive performance analysis of Nexus Metrics for the year 2019. It provides key insights into revenue trends, regional and product performance, top-performing salespeople, and customer value using dynamic charts and slicers.
 
----
 
-## 📌 Key Highlights
+##  Key Highlights
 
 - **Top Salesperson:** Nancy Freehafer – $104,242 revenue  
 - **Best Performing Company:** Company D – $67,181 revenue  
@@ -17,9 +16,8 @@ This dashboard presents a comprehensive performance analysis of Nexus Metrics fo
 - **Top Region:** North – $141,660 revenue  
 - **Best Month:** December – $66,643 revenue
 
----
 
-## 🔍 Observations
+## Observations
 
 1. **Nancy Freehafer** leads all salespersons, contributing almost **24%** of the total revenue.
 2. **December** shows the **highest sales spike**, suggesting a seasonal peak.
@@ -28,9 +26,8 @@ This dashboard presents a comprehensive performance analysis of Nexus Metrics fo
 5. **Smaller transaction amounts (0–1000)** make up the bulk of transactions, indicating high volume, low value sales.
 6. The **South region** and **certain cities (e.g., Milwaukee)** underperform in comparison.
 
----
 
-## ✅ Recommendations
+## Recommendations
 
 1. **Replicate Nancy Freehafer’s sales strategies** across the team to uplift overall performance.
 2. **Capitalize on December's momentum** by launching targeted holiday campaigns or promotions.
@@ -39,9 +36,8 @@ This dashboard presents a comprehensive performance analysis of Nexus Metrics fo
 5. **Incentivize higher-value transactions**, since most sales fall within low revenue brackets.
 6. **Investigate performance gaps** in certain cities to identify logistical or marketing issues.
 
----
 
-## 📈 Dashboard Visualizations
+## Dashboard Visualizations
 
 - Top 5 States by Revenue  
 - Monthly Sales Trend Report  
@@ -52,16 +48,14 @@ This dashboard presents a comprehensive performance analysis of Nexus Metrics fo
 - Regional Sales Distribution  
 - Top Shipping Cities
 
----
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Microsoft Excel** (Power Pivot, Pivot Charts, Slicers)  
 - **Data Cleaning & Transformation**  
 - **Dashboard Design and Interactivity Enhancements**
 
----
 
-## 💡 Purpose
+##  Purpose
 
 The dashboard is designed to provide stakeholders with quick, insightful analytics to support strategic planning, performance management, and revenue growth initiatives.
