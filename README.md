@@ -1,4 +1,5 @@
-# 📊 Nexus Metrics Performance Dashboard (2019)
+![NEXUS PERFORMANCE ANALYSIS DASHBOARD By Adeolu James](https://github.com/user-attachments/assets/fb50e926-67be-44ad-be20-cf133033b055)
+# Nexus Metrics Performance Dashboard (2019)
 
 ![Nexus Metrics Performance Dashboard](f52c58af-95a7-4bc0-8448-db0072f6cce9.PNG)
 
